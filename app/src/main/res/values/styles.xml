@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="etStyle">
+        <item name="android:layout_width">300dp</item>
+        <item name="android:layout_height">53dp</item>
+        <item name="android:layout_marginLeft">18dp</item>
+        <item name="android:layout_marginBottom">15dp</item>
+        <item name="android:background">@drawable/edit_text_design</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">textPersonName</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+</resources>
